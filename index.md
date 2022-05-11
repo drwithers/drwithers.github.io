@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# General Information
 
-You can use the [editor on GitHub](https://github.com/drwithers/drwithers.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This page is for general information about me. Click on one of the links for
+ more detail.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Things to Remember
 
-### Markdown
+When you see the words "THE END" it is not the end of everything. Just the end of the story. In real life there is never an end.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Who Am I
 
-```markdown
-Syntax highlighted code block
+This is a question that many people seek for themselves. The answer is impossible to completely define becuase the answer is always changing. Here is a summary of what I can define.
 
-# Header 1
-## Header 2
-### Header 3
+### Work Experience
 
-- Bulleted
-- List
+- Embedded Software Engineer at Space Dynamics Lab (Current)
+- Electrical Engineering Failure Analyst at NSWC Crane
+- Engineering Assistant at Space Dynamics Lab
+- Software Tester at Space Dynamics Lab
 
-1. Numbered
-2. List
+### Education
 
-**Bold** and _Italic_ and `Code` text
+- Bachelors in Electrical Engineering from Utah State University
 
-[Link](url) and ![Image](src)
-```
+### Interests and hobbies
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- Robotics
+- Music
+- 3D modeling and printing
 
-### Jekyll Themes
+## Personal Projects
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/drwithers/drwithers.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Software
 
-### Support or Contact
+- Mecanum Robot Car
+- Budgeting Mobile Application
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Hardware
+
+- 3D Modeling
