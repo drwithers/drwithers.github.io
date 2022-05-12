@@ -9,9 +9,9 @@ When you see the words "THE END" it is not the end of everything. Just the end o
 
 ## Who Am I
 
-This is a question that many people seek for themselves. The answer is impossible to completely define becuase the answer is always changing. Here is a summary of what I can define.
+This is a question that many people seek for themselves. The answer is impossible to completely define because the answer is always changing. Here is a summary of what I can define.
 
-### Work Experience
+### :man_technologist: Work Experience
 
 - Embedded Software Engineer at Space Dynamics Lab (Current)
 - Electrical Engineering Failure Analyst at NSWC Crane
@@ -20,25 +20,25 @@ This is a question that many people seek for themselves. The answer is impossibl
 
 [Details](./work)
 
-### Education
+### :notebook: Education
 
 - Bachelors in Electrical Engineering from Utah State University
 
 [Details](./education)
 
-### Interests and hobbies
+### :bulb: Interests and hobbies
 
 - Robotics
 - Music
 - 3D modeling and printing
 
-## Personal Projects
+## :hammer_and_wrench: Personal Projects
 
-### Software
+### :computer: Software
 
 - Mecanum Robot Car
 - Budgeting Mobile Application
 
-### Hardware
+### :gear: Hardware
 
 - 3D Modeling
