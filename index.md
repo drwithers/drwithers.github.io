@@ -18,9 +18,13 @@ This is a question that many people seek for themselves. The answer is impossibl
 - Engineering Assistant at Space Dynamics Lab
 - Software Tester at Space Dynamics Lab
 
+[Details](./work)
+
 ### Education
 
 - Bachelors in Electrical Engineering from Utah State University
+
+[Details](./education)
 
 ### Interests and hobbies
 
