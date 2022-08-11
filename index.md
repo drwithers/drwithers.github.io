@@ -1,7 +1,7 @@
 # General Information
 
 This page is for general information about me. Click on one of the links for
- more detail.
+ more detail. Or click [HERE](./robotCar) to jump to the project I am most proud of.
 
 ## Things to Remember
 
