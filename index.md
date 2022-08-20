@@ -1,7 +1,7 @@
 # General Information
 
 This page is for general information about me. Click on one of the links for
- more detail. Or click [HERE](./robotCar) to jump to the project I am most proud of.
+ more detail. Or click [HERE](./projects/robotCar) to jump to the project I am most proud of.
 
 ## Things to Remember
 
@@ -18,13 +18,13 @@ This is a question that many people seek for themselves. The answer is impossibl
 - Engineering Assistant at Space Dynamics Lab
 - Software Tester at Space Dynamics Lab
 
-[Details](./work)
+[Work Details](./work)
 
 ### :notebook: Education
 
 - Bachelors in Electrical Engineering from Utah State University
 
-[Details](./education)
+[Education Details](./education)
 
 ### :bulb: Interests and hobbies
 
@@ -33,6 +33,8 @@ This is a question that many people seek for themselves. The answer is impossibl
 - 3D modeling and printing
 
 ## :hammer_and_wrench: Personal Projects
+
+[Project Details](./projects)
 
 ### :computer: Software
 
