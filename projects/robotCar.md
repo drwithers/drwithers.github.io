@@ -1,4 +1,4 @@
-# Progress of the robot car
+# Status of the Robot Car
 
 ## Overview
 
@@ -10,7 +10,7 @@ I had the idea to be able to control a robot car from my phone, computer, or som
 
 ## Mecanum Chassis with 7.2V NiMH Battery
 
-![7v2 Mecanum Car](./assets/images/car3c_1.jpg)
+![7v2 Mecanum Car](../assets/images/car3c_1.jpg)
 
 ### Improvements
 
@@ -23,7 +23,7 @@ I had the idea to be able to control a robot car from my phone, computer, or som
 
 ## Mecanum Chassis with 5V Li-ion Battery
 
-![5v Mecanum Car](./assets/images/car3b.jpg)
+![5v Mecanum Car](../assets/images/car3b.jpg)
 
 ### Improvements from Foam board Car
 
@@ -36,13 +36,13 @@ Rather than rely on my lack of mechanical skills, I decided to buy this [Mecanum
 
 ## Foam board design with modified servo
 
-![Foam board Car](./assets/images/car1drivable.jpg)
+![Foam board Car](../assets/images/car1drivable.jpg)
 
 ### Lessons Learned from Foam Board Car
 
 I am not a mechanical Engineer. The design I made up in CAD worked in theory but with a load in real life didn't work very well. I was pretty proud that the mechanism worked but the tiny servos I used couldn't pivot or rotate the front wheel.
 
-![Foam Car CAD](./assets/images/car1CAD.png)
+![Foam Car CAD](../assets/images/car1CAD.png)
 
 ### Foam Board Car Issues
 
