@@ -2,6 +2,6 @@
 
 ## Courses
 
-CS 6340 - Software Analysis & Test
-CS 6300 - Software Dev Process
-CS 7639 - Cyber Physical Design
+- CS 6340 - Software Analysis & Test
+- CS 6300 - Software Dev Process
+- CS 7639 - Cyber Physical Design

@@ -26,21 +26,20 @@ This is a question that many people seek for themselves. The answer is impossibl
 
 [Education Details](./education)
 
-### :bulb: Interests and hobbies
+### :hammer_and_wrench: Projects and Ideas
+
+#### Projects
+
+- Mecanum Robot Car
+
+[Project Details](./projects)
+
+#### Ideas
+
+- Budgeting Mobile Application
+
+### :bulb: Interests
 
 - Robotics
 - Music
 - 3D modeling and printing
-
-## :hammer_and_wrench: Personal Projects
-
-[Project Details](./projects)
-
-### :computer: Software
-
-- Mecanum Robot Car
-- Budgeting Mobile Application
-
-### :gear: Hardware
-
-- 3D Modeling
